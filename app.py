@@ -17,17 +17,39 @@ def preprocess_wiratha(text):
     text = text.lower().strip()
     
     slang = {
-        # Slang maba Maranatha 2025
+        # Slang Maranatha & Singkatan Umum
+        
+        # Negasi/Kata Umum
         "ga":"tidak", "gak":"tidak", "gk":"tidak", "nggak":"tidak", "ngga":"tidak",
+        "brp":"berapa", "smpe":"sampai", "bsok":"besok", "bsk":"besok",
+        "pke":"pakai", "pake":"pakai", "apaa":"apa", "yaa":"ya",
+        "kpn":"kapan", "dmana":"dimana", "dmn":"dimana", "sana":"disana", 
+        "sy":"saya", "gw":"saya", "ane":"saya", "ak":"saya",
+        "org":"orang", "ktmu":"ketemu", "kyk":"kayak", "gni":"begini", "gitu":"begitu",
+        "jd":"jadi", "tdk":"tidak",
+        
+        # Perlengkapan / Dress Code
         "bju":"baju", "bajuu":"baju", "bajuuuu":"baju",
         "drsscode":"dress code", "dresscode":"dress code", "drescode":"dress code",
+        "kmeja":"kemeja", "kemejaaa":"kemeja", "kemejaa":"kemeja",
+        "celana":"celana", "clana":"celana", "cnlna":"celana",
+        "joger":"jogger", "flanel":"flanel", "kaos":"kaos", "kaoss":"kaos", "kats":"kaus",
+        "ktk":"kotak", "kotakkotak":"kotak-kotak",
         "alasduduk":"alas duduk", "alas dudk":"alas duduk", "spawnpoint":"alas duduk", "spawn":"alas duduk",
+        "tumbler":"tumbler", "tummblr":"tumbler", "botol":"botol minum", "botolminum":"botol minum",
+        
+        # Identitas / Atribut
         "idcard":"id card", "accesspass":"id card", "namtag":"name tag", "nametag":"name tag",
+        "nim":"nomor induk mahasiswa", "npm":"nomor pokok mahasiswa",
         "reels":"character reveal", "charreveal":"character reveal",
-        "tumbler":"tumbler", "flanel":"flanel", "kmeja":"kemeja", "joger":"jogger",
+        "fcm":"fam cell",
+        
+        # Acara / Lokasi
         "wf":"wiratha fest", "maba":"mahasiswa baru", "famcell":"fam cell",
-        "brp":"berapa", "smpe":"sampai", "bsok":"besok", "bsk":"besok",
-        "pke":"pakai", "pake":"pakai", "apaa":"apa", "yaa":"ya"
+        "regis":"registrasi", "regist":"registrasi", "regitrasi":"registrasi",
+        "loc":"lokasi", "tempat":"tempat", "tmpt":"tempat",
+        "jam":"jam", "mulai":"mulai", "selesai":"selesai",
+        "panitia":"panitia", "kakak":"panitia", "kak":"panitia"
     }
     
     for k, v in slang.items():
