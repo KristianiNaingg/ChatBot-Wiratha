@@ -5,68 +5,6 @@ selamat pagi,greeting
 pagi kak,greeting
 siap level up?,greeting
 wiratha bot hidup ga?,greeting
-kapan wiratha fest 2025,jadwal_umum
-tanggal wiratha berapa,jadwal_umum
-wiratha jam berapa mulai,jadwal_umum
-lokasi wiratha di mana,jadwal_umum
-wiratha di maranatha bandung ya,jadwal_umum
-baju hari pertama apa,dresscode_day1
-day 1 pakai apa,dresscode_day1
-pixel origin kostum game ya,dresscode_day1
-pagi parade wajib kostum karakter game,dresscode_day1
-atribut mario boleh ga,dresscode_day1
-pedang kirito boleh dibawa,dresscode_day1
-siang day1 kaos putih celana hitam,dresscode_day1
-bju day1 apaa kak,dresscode_day1
-kostum assassin creed boleh?,dresscode_day1
-besok pakai apa,dresscode_day2
-day 2 flanel kotak-kotak ya,dresscode_day2
-pixel grid kaos hitam outer apa,dresscode_day2
-boleh celana jogger hitam ga,dresscode_day2
-flanel motif apa aja boleh,dresscode_day2
-hari rabu pakai colorful,dresscode_day3
-day 3 jeans biru wajib,dresscode_day3
-atasan warna cerah boleh apa aja,dresscode_day3
-boleh crop top ga,dresscode_dont
-sandal boleh nggak,dresscode_dont
-jeans sobek dilarang ya,dresscode_dont
-aksesoris berlebihan boleh ga,dresscode_dont
-ukuran alas duduk berapa,alas_duduk
-spawn point 55x55 cm ya,alas_duduk
-alas duduk wajib tulis level up,alas_duduk
-warna alas sesuai fakultas,alas_duduk
-avatar game di depan alas duduk,alas_duduk
-id card ukuran berapa,id_card
-harus tukar 12 id card per hari,id_card
-access pass icon koin day1,id_card
-tukar id card 2 per fakultas,id_card
-name tag a5 landscape ya,name_tag
-tali name tag pakai rafia,name_tag
-name tag wajib dipakai terus,name_tag
-quest log ukuran buku campus,quest_log
-buku catatan 40 lembar,quest_log
-cover quest log tulis take it to next level,quest_log
-halaman 1 foto 4x6,quest_log
-tabel sanksi di halaman 4-5,quest_log
-reels upload paling lambat kapan,character_reveal
-character reveal deadline 30 agustus,character_reveal
-video reels wajib mention wiratha_fest,character_reveal
-caption reels harus ada fam cell,character_reveal
-wajib bawa tumbler 1.5 liter,air_minum
-air minum boleh botol biasa ga,air_minum
-label tumbler nama nrp fam cell,air_minum
-sarapan day1 apa,sarapan
-day2 sarapan tamagotchi rice,sarapan
-day3 winner winner rice,sarapan
-flashmob minimal berapa orang,performance
-drama musikal upload kemana,performance
-perkusi alat dari galon boleh,performance
-sanksi telat gimana,sanksi
-tabel sanksi link bit.ly,sanksi
-kalau lupa name tag hukuman apa,sanksi
-wa panitia berapa,kontak
-ig wiratha fest apa,kontak
-email wirathafest,kontak
 halo kak,greeting
 kak halo kak,greeting
 halo kak dong,greeting
@@ -91,18 +29,26 @@ wiratha bot hidup ga?,greeting
 kak wiratha bot hidup ga?,greeting
 wiratha bot hidup ga? dong,greeting
 wiratha bot hidup ga??,greeting
+apa kabar,greeting
+salam kenal,greeting
+test chat,greeting
+okelah,greeting
+tes respon dong,greeting
+
 kapan wiratha fest 2025,jadwal_umum
+tanggal wiratha berapa,jadwal_umum
+wiratha jam berapa mulai,jadwal_umum
+lokasi wiratha di mana,jadwal_umum
+wiratha di maranatha bandung ya,jadwal_umum
 kapaan wiratha fest 2025,jadwal_umum
 kak kapan wiratha fest 2025,jadwal_umum
 kapan wiratha fest 2025 dong,jadwal_umum
 kapan wiratha fest 2025?,jadwal_umum
-tanggal wiratha berapa,jadwal_umum
 tanggal wiratha berapaa,jadwal_umum
 tanggal wiratha brp,jadwal_umum
 kak tanggal wiratha berapa,jadwal_umum
 tanggal wiratha berapa dong,jadwal_umum
 tanggal wiratha berapa?,jadwal_umum
-wiratha jam berapa mulai,jadwal_umum
 wiratha jam berapaa mulai,jadwal_umum
 wiratha jam brp mulai,jadwal_umum
 kak wiratha jam berapa mulai,jadwal_umum
@@ -117,263 +63,362 @@ wiratha di maranatha bandung yaa,jadwal_umum
 kak wiratha di maranatha bandung ya,jadwal_umum
 wiratha di maranatha bandung ya dong,jadwal_umum
 wiratha di maranatha bandung ya?,jadwal_umum
+tanggal dan tempat wiratha,jadwal_umum
+mulai jam berapa wiratha,jadwal_umum
+di mana acara itu diadakan,jadwal_umum
+tolong kasih info jadwal,jadwal_umum
+hari apa aja wiratha,jadwal_umum
+
 baju hari pertama apa,dresscode_day1
+day 1 pakai apa,dresscode_day1
+pixel origin kostum game ya,dresscode_day1
+pagi parade wajib kostum karakter game,dresscode_day1
+atribut mario boleh ga,dresscode_day1
+pedang kirito boleh dibawa,dresscode_day1
+siang day1 kaos putih celana hitam,dresscode_day1
+bju day1 apaa kak,dresscode_day1
+kostum assassin creed boleh?,dresscode_day1
 baju hari pertama apaa,dresscode_day1
 bju hari pertama apa,dresscode_day1
 kak baju hari pertama apa,dresscode_day1
 baju hari pertama apa dong,dresscode_day1
 baju hari pertama apa?,dresscode_day1
-day 1 pakai apa,dresscode_day1
 day 1 pakai apaa,dresscode_day1
 day 1 pke apa,dresscode_day1
 kak day 1 pakai apa,dresscode_day1
 day 1 pakai apa dong,dresscode_day1
 day 1 pakai apa?,dresscode_day1
-pixel origin kostum game ya,dresscode_day1
 pixel origin kostum game yaa,dresscode_day1
 kak pixel origin kostum game ya,dresscode_day1
 pixel origin kostum game ya dong,dresscode_day1
 pixel origin kostum game ya?,dresscode_day1
-pagi parade wajib kostum karakter game,dresscode_day1
 kak pagi parade wajib kostum karakter game,dresscode_day1
 pagi parade wajib kostum karakter game dong,dresscode_day1
 pagi parade wajib kostum karakter game?,dresscode_day1
-atribut mario boleh ga,dresscode_day1
 kak atribut mario boleh ga,dresscode_day1
 atribut mario boleh ga dong,dresscode_day1
 atribut mario boleh ga?,dresscode_day1
-pedang kirito boleh dibawa,dresscode_day1
 kak pedang kirito boleh dibawa,dresscode_day1
 pedang kirito boleh dibawa dong,dresscode_day1
 pedang kirito boleh dibawa?,dresscode_day1
-siang day1 kaos putih celana hitam,dresscode_day1
 kak siang day1 kaos putih celana hitam,dresscode_day1
 siang day1 kaos putih celana hitam dong,dresscode_day1
 siang day1 kaos putih celana hitam?,dresscode_day1
-bju day1 apaa kak,dresscode_day1
 bju day1 apaaa kak,dresscode_day1
 kak bju day1 apaa kak,dresscode_day1
 bju day1 apaa kak dong,dresscode_day1
 bju day1 apaa kak?,dresscode_day1
-kostum assassin creed boleh?,dresscode_day1
 kak kostum assassin creed boleh?,dresscode_day1
 kostum assassin creed boleh? dong,dresscode_day1
 kostum assassin creed boleh??,dresscode_day1
+hari pertama pakai kostum apa,dresscode_day1
+setelah parade pakai baju apa,dresscode_day1
+dresscode hari pertama pagi,dresscode_day1
+pakaian siang hari 1,dresscode_day1
+boleh bawa senjata karakter,dresscode_day1
+
 besok pakai apa,dresscode_day2
+day 2 flanel kotak-kotak ya,dresscode_day2
+pixel grid kaos hitam outer apa,dresscode_day2
+boleh celana jogger hitam ga,dresscode_day2
+flanel motif apa aja boleh,dresscode_day2
 besok pakai apaa,dresscode_day2
 besok pke apa,dresscode_day2
 kak besok pakai apa,dresscode_day2
 besok pakai apa dong,dresscode_day2
 besok pakai apa?,dresscode_day2
-day 2 flanel kotak-kotak ya,dresscode_day2
 day 2 flanel kotak-kotak yaa,dresscode_day2
 kak day 2 flanel kotak-kotak ya,dresscode_day2
 day 2 flanel kotak-kotak ya dong,dresscode_day2
 day 2 flanel kotak-kotak ya?,dresscode_day2
-pixel grid kaos hitam outer apa,dresscode_day2
 pixel grid kaos hitam outer apaa,dresscode_day2
 kak pixel grid kaos hitam outer apa,dresscode_day2
 pixel grid kaos hitam outer apa dong,dresscode_day2
 pixel grid kaos hitam outer apa?,dresscode_day2
-boleh celana jogger hitam ga,dresscode_day2
 kak boleh celana jogger hitam ga,dresscode_day2
 boleh celana jogger hitam ga dong,dresscode_day2
 boleh celana jogger hitam ga?,dresscode_day2
-flanel motif apa aja boleh,dresscode_day2
 flanel motif apaa aja boleh,dresscode_day2
 kak flanel motif apa aja boleh,dresscode_day2
 flanel motif apa aja boleh dong,dresscode_day2
 flanel motif apa aja boleh?,dresscode_day2
+baju hari kedua itu kaos hitam,dresscode_day2
+outer flanel harus kotak-kotak,dresscode_day2
+celana yang dipakai hari 2,dresscode_day2
+pakai kaos warna hitam ya,dresscode_day2
+motif flanel wajib sama ga,dresscode_day2
+
 hari rabu pakai colorful,dresscode_day3
+day 3 jeans biru wajib,dresscode_day3
+atasan warna cerah boleh apa aja,dresscode_day3
 hari rabu pke colorful,dresscode_day3
 kak hari rabu pakai colorful,dresscode_day3
 hari rabu pakai colorful dong,dresscode_day3
 hari rabu pakai colorful?,dresscode_day3
-day 3 jeans biru wajib,dresscode_day3
 kak day 3 jeans biru wajib,dresscode_day3
 day 3 jeans biru wajib dong,dresscode_day3
 day 3 jeans biru wajib?,dresscode_day3
-atasan warna cerah boleh apa aja,dresscode_day3
 atasan warna cerah boleh apaa aja,dresscode_day3
 kak atasan warna cerah boleh apa aja,dresscode_day3
 atasan warna cerah boleh apa aja dong,dresscode_day3
 atasan warna cerah boleh apa aja?,dresscode_day3
+pakaian hari ketiga,dresscode_day3
+pakai baju warna-warni,dresscode_day3
+wajib jeans warna biru,dresscode_day3
+baju atasan cerah apa aja,dresscode_day3
+celana day 3 apa,dresscode_day3
+
 boleh crop top ga,dresscode_dont
+sandal boleh nggak,dresscode_dont
+jeans sobek dilarang ya,dresscode_dont
+aksesoris berlebihan boleh ga,dresscode_dont
 kak boleh crop top ga,dresscode_dont
 boleh crop top ga dong,dresscode_dont
 boleh crop top ga?,dresscode_dont
-sandal boleh nggak,dresscode_dont
 sandal boleh ga,dresscode_dont
 kak sandal boleh nggak,dresscode_dont
 sandal boleh nggak dong,dresscode_dont
 sandal boleh nggak?,dresscode_dont
-jeans sobek dilarang ya,dresscode_dont
 jeans sobek dilarang yaa,dresscode_dont
 kak jeans sobek dilarang ya,dresscode_dont
 jeans sobek dilarang ya dong,dresscode_dont
 jeans sobek dilarang ya?,dresscode_dont
-aksesoris berlebihan boleh ga,dresscode_dont
 kak aksesoris berlebihan boleh ga,dresscode_dont
 aksesoris berlebihan boleh ga dong,dresscode_dont
 aksesoris berlebihan boleh ga?,dresscode_dont
+dilarang pakai baju terbuka,dresscode_dont
+apakah boleh pakai rok mini,dresscode_dont
+sepatu dilarang ya,dresscode_dont
+jangan pakai celana pendek,dresscode_dont
+bawa perhiasan banyak boleh,dresscode_dont
+
 ukuran alas duduk berapa,alas_duduk
+spawn point 55x55 cm ya,alas_duduk
+alas duduk wajib tulis level up,alas_duduk
+warna alas sesuai fakultas,alas_duduk
+avatar game di depan alas duduk,alas_duduk
 ukuran alas duduk berapaa,alas_duduk
 ukuran alas duduk brp,alas_duduk
 kak ukuran alas duduk berapa,alas_duduk
 ukuran alas duduk berapa dong,alas_duduk
 ukuran alas duduk berapa?,alas_duduk
-spawn point 55x55 cm ya,alas_duduk
 spawn point 55x55 cm yaa,alas_duduk
 kak spawn point 55x55 cm ya,alas_duduk
 spawn point 55x55 cm ya dong,alas_duduk
 spawn point 55x55 cm ya?,alas_duduk
-alas duduk wajib tulis level up,alas_duduk
 kak alas duduk wajib tulis level up,alas_duduk
 alas duduk wajib tulis level up dong,alas_duduk
 alas duduk wajib tulis level up?,alas_duduk
-warna alas sesuai fakultas,alas_duduk
 kak warna alas sesuai fakultas,alas_duduk
 warna alas sesuai fakultas dong,alas_duduk
 warna alas sesuai fakultas?,alas_duduk
-avatar game di depan alas duduk,alas_duduk
 kak avatar game di depan alas duduk,alas_duduk
 avatar game di depan alas duduk dong,alas_duduk
 avatar game di depan alas duduk?,alas_duduk
+alas duduk wajib dibawa,alas_duduk
+alas duduk ukurannya,alas_duduk
+alas duduk sesuai fakultas,alas_duduk
+harus ada tulisan di alas duduk,alas_duduk
+alas duduk buat apa kak,alas_duduk
+
 id card ukuran berapa,id_card
+harus tukar 12 id card per hari,id_card
+access pass icon koin day1,id_card
+tukar id card 2 per fakultas,id_card
 id card ukuran berapaa,id_card
 id card ukuran brp,id_card
 kak id card ukuran berapa,id_card
 id card ukuran berapa dong,id_card
 id card ukuran berapa?,id_card
-harus tukar 12 id card per hari,id_card
 kak harus tukar 12 id card per hari,id_card
 harus tukar 12 id card per hari dong,id_card
 harus tukar 12 id card per hari?,id_card
-access pass icon koin day1,id_card
 kak access pass icon koin day1,id_card
 access pass icon koin day1 dong,id_card
 access pass icon koin day1?,id_card
-tukar id card 2 per fakultas,id_card
 kak tukar id card 2 per fakultas,id_card
 tukar id card 2 per fakultas dong,id_card
 tukar id card 2 per fakultas?,id_card
+id card wajib dibawa,id_card
+ukuran id card,id_card
+tukar kartu berapa,id_card
+fungsi access pass,id_card
+id card koin itu apa,id_card
+
 name tag a5 landscape ya,name_tag
+tali name tag pakai rafia,name_tag
+name tag wajib dipakai terus,name_tag
 name tag a5 landscape yaa,name_tag
 kak name tag a5 landscape ya,name_tag
 name tag a5 landscape ya dong,name_tag
 name tag a5 landscape ya?,name_tag
-tali name tag pakai rafia,name_tag
 tali name tag pke rafia,name_tag
 kak tali name tag pakai rafia,name_tag
 tali name tag pakai rafia dong,name_tag
 tali name tag pakai rafia?,name_tag
-name tag wajib dipakai terus,name_tag
 name tag wajib dipke terus,name_tag
 kak name tag wajib dipakai terus,name_tag
 name tag wajib dipakai terus dong,name_tag
 name tag wajib dipakai terus?,name_tag
+ukuran name tag berapa,name_tag
+tali name tag harus dari,name_tag
+name tag dipakai kapan aja,name_tag
+bahan tali name tag,name_tag
+ukuran nametag,name_tag
+
 quest log ukuran buku campus,quest_log
+buku catatan 40 lembar,quest_log
+cover quest log tulis take it to next level,quest_log
+halaman 1 foto 4x6,quest_log
+tabel sanksi di halaman 4-5,quest_log
 kak quest log ukuran buku campus,quest_log
 quest log ukuran buku campus dong,quest_log
 quest log ukuran buku campus?,quest_log
-buku catatan 40 lembar,quest_log
 kak buku catatan 40 lembar,quest_log
 buku catatan 40 lembar dong,quest_log
 buku catatan 40 lembar?,quest_log
-cover quest log tulis take it to next level,quest_log
 kak cover quest log tulis take it to next level,quest_log
 cover quest log tulis take it to next level dong,quest_log
 cover quest log tulis take it to next level?,quest_log
-halaman 1 foto 4x6,quest_log
 kak halaman 1 foto 4x6,quest_log
 halaman 1 foto 4x6 dong,quest_log
 halaman 1 foto 4x6?,quest_log
-tabel sanksi di halaman 4-5,quest_log
 kak tabel sanksi di halaman 4-5,quest_log
 tabel sanksi di halaman 4-5 dong,quest_log
 tabel sanksi di halaman 4-5?,quest_log
+buku quest log,quest_log
+ukuran buku catatan wiratha,quest_log
+foto yang dipakai di buku,quest_log
+dimana tabel sanksi,quest_log
+tulisan di cover buku,quest_log
+
 reels upload paling lambat kapan,character_reveal
+character reveal deadline 30 agustus,character_reveal
+video reels wajib mention wiratha_fest,character_reveal
+caption reels harus ada fam cell,character_reveal
 reels upload paling lambat kapaan,character_reveal
 kak reels upload paling lambat kapan,character_reveal
 reels upload paling lambat kapan dong,character_reveal
 reels upload paling lambat kapan?,character_reveal
-character reveal deadline 30 agustus,character_reveal
 kak character reveal deadline 30 agustus,character_reveal
 character reveal deadline 30 agustus dong,character_reveal
 character reveal deadline 30 agustus?,character_reveal
-video reels wajib mention wiratha_fest,character_reveal
 kak video reels wajib mention wiratha_fest,character_reveal
 video reels wajib mention wiratha_fest dong,character_reveal
 video reels wajib mention wiratha_fest?,character_reveal
-caption reels harus ada fam cell,character_reveal
 kak caption reels harus ada fam cell,character_reveal
 caption reels harus ada fam cell dong,character_reveal
 caption reels harus ada fam cell?,character_reveal
+video karakter deadline,character_reveal
+upload video character,character_reveal
+kapan terakhir upload reels,character_reveal
+tagar untuk character reveal,character_reveal
+fam cell harus ada di reels,character_reveal
+
 wajib bawa tumbler 1.5 liter,air_minum
+air minum boleh botol biasa ga,air_minum
+label tumbler nama nrp fam cell,air_minum
 kak wajib bawa tumbler 1.5 liter,air_minum
 wajib bawa tumbler 1.5 liter dong,air_minum
 wajib bawa tumbler 1.5 liter?,air_minum
-air minum boleh botol biasa ga,air_minum
 kak air minum boleh botol biasa ga,air_minum
 air minum boleh botol biasa ga dong,air_minum
 air minum boleh botol biasa ga?,air_minum
-label tumbler nama nrp fam cell,air_minum
 kak label tumbler nama nrp fam cell,air_minum
 label tumbler nama nrp fam cell dong,air_minum
 label tumbler nama nrp fam cell?,air_minum
- day1 apa,sarapan
-sarapaan day1 apaa,sarapan
-kak sarapan day1 apa,sarapan
-sarapan day1 apa dong,sarapan
-sarapan sarapanday1 apa?,sarapan
-day2 sarapan tamagotchi rice,sarapan
-day2 sarapaan tamagotchi rice,sarapan
-kak day2 sarapan tamagotchi rice,sarapan
-day2 sarapan tamagotchi rice dong,sarapan
-day2 sarapan tamagotchi rice?,sarapan
-day3 winner winner rice,sarapan
-kak day3 winner winner rice,sarapan
-day3 winner winner rice dong,sarapan
-day3 winner winner rice?,sarapan
+label di botol minum,air_minum
+kapasitas tumbler,air_minum
+botol minum boleh ganti ga,air_minum
+tumbler harus 1.5l,air_minum
+label di tumbler tulis apa,air_minum
+
+sarapan hari pertama apa,sarapan_day1
+menu sarapan day 1,sarapan_day1
+bekal hari 1 apa,sarapan_day1
+sarapan day1 apaa kak,sarapan_day1
+kak sarapan day1 apa,sarapan_day1
+sarapan day1 apa dong,sarapan_day1
+sarapan sarapanday1 apa?,sarapan_day1
+sarapan hari ke-1,sarapan_day1
+bekal day 1,sarapan_day1
+
+sarapan day 2 tamagotchi rice,sarapan_day2
+day 2 sarapan tamagotchi rice,sarapan_day2
+makan pagi hari kedua,sarapan_day2
+day2 sarapaan tamagotchi rice,sarapan_day2
+kak day2 sarapan tamagotchi rice,sarapan_day2
+day2 sarapan tamagotchi rice dong,sarapan_day2
+day2 sarapan tamagotchi rice?,sarapan_day2
+tamagotchi rice itu apa,sarapan_day2
+sarapan hari ke-2,sarapan_day2
+bekal day 2,sarapan_day2
+
+sarapan day 3 winner winner rice,sarapan_day3
+day 3 winner winner rice,sarapan_day3
+menu sarapan hari ketiga,sarapan_day3
+kak day3 winner winner rice,sarapan_day3
+day3 winner winner rice dong,sarapan_day3
+day3 winner winner rice?,sarapan_day3
+winner winner rice itu,sarapan_day3
+sarapan hari ke-3,sarapan_day3
+bekal day 3,sarapan_day3
+
 flashmob minimal berapa orang,performance
+drama musikal upload kemana,performance
+perkusi alat dari galon boleh,performance
 flashmob minimal berapaa orang,performance
 flashmob minimal brp orang,performance
 kak flashmob minimal berapa orang,performance
 flashmob minimal berapa orang dong,performance
 flashmob minimal berapa orang?,performance
-drama musikal upload kemana,performance
 kak drama musikal upload kemana,performance
 drama musikal upload kemana dong,performance
 drama musikal upload kemana?,performance
-perkusi alat dari galon boleh,performance
 kak perkusi alat dari galon boleh,performance
 perkusi alat dari galon boleh dong,performance
 perkusi alat dari galon boleh?,performance
+anggota flashmob minimal,performance
+upload drama musikal ke mana,performance
+alat musik perkusi boleh dari apa,performance
+ketentuan performance,performance
+tema drama musikal,performance
+
 sanksi telat gimana,sanksi
+tabel sanksi link bit.ly,sanksi
+kalau lupa name tag hukuman apa,sanksi
 kak sanksi telat gimana,sanksi
 sanksi telat gimana dong,sanksi
 sanksi telat gimana?,sanksi
-tabel sanksi link bit.ly,sanksi
 kak tabel sanksi link bit.ly,sanksi
 tabel sanksi link bit.ly dong,sanksi
 tabel sanksi link bit.ly?,sanksi
-kalau lupa name tag hukuman apa,sanksi
 kalau lupa name tag hukuman apaa,sanksi
 kak kalau lupa name tag hukuman apa,sanksi
 kalau lupa name tag hukuman apa dong,sanksi
 kalau lupa name tag hukuman apa?,sanksi
+hukuman kalau telat,sanksi
+link sanksi,sanksi
+kalo nametag ketinggalan,sanksi
+aturan dan hukuman wiratha,sanksi
+sanksi di mana,sanksi
+
 wa panitia berapa,kontak
+ig wiratha fest apa,kontak
+email wirathafest,kontak
 wa panitia berapaa,kontak
 wa panitia brp,kontak
 kak wa panitia berapa,kontak
 wa panitia berapa dong,kontak
 wa panitia berapa?,kontak
-ig wiratha fest apa,kontak
 ig wiratha fest apaa,kontak
 kak ig wiratha fest apa,kontak
 ig wiratha fest apa dong,kontak
 ig wiratha fest apa?,kontak
-email wirathafest,kontak
 kak email wirathafest,kontak
 email wirathafest dong,kontak
 email wirathafest?,kontak
+nomor telepon panitia,kontak
+akun instagram resmi,kontak
+alamat email panitia,kontak
+kontak yang bisa dihubungi,kontak
